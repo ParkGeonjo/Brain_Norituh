@@ -33,8 +33,11 @@ https://youtu.be/Uc5ie3fLcD0
 ![image](https://github.com/user-attachments/assets/7b9732dc-a5e4-449b-8366-a870171e61cc) 
 
 ## 📁 빌드 파일 
-안드로이드(APK) - <a href="https://drive.google.com/file/d/1HDMBBZ0yJ3d8vbjggB2z-4K5Kdcuc2Bi/view?usp=sharing">구글 드라이브 링크</a><br>
-PC - <a href="https://drive.google.com/file/d/1TR8ifXCEwwZ6ZQC5UrVv8F8Hs-vZ7a5q/view?usp=sharing">구글 드라이브 링크</a>
+#### • 안드로이드(APK)<br>
+<a href="https://drive.google.com/file/d/1cyBaaoHjPpFOpi4cGB2eLnw3RgPCurQU/view?usp=sharing">구글 드라이브 링크</a><br>
+#### • PC<br>
+<a href="https://drive.google.com/file/d/1aUolp9ivAmPbUedh26_6vYc-2vRMI7lw/view?usp=sharing">구글 드라이브 링크</a>
 
 ## 📝 주요 구현 내용 
-<a href="https://ivy-lentil-606.notion.site/29a04300832780b5beaef6faf6dd6e52">Notion - 🧠 두뇌 놀이터</a>
+#### • Notion<br>
+<a href="https://ivy-lentil-606.notion.site/29a04300832780b5beaef6faf6dd6e52">🧠 두뇌 놀이터</a>
