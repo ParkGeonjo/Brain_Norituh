@@ -8,6 +8,7 @@ using TMPro;
 public class LobbyManager : MonoBehaviour
 {
     public GameObject OptionCanvas;
+    public GameObject HelpCanvas;
     public GameObject CreditPanel;
     public GameObject Game1Panel;
     public GameObject Game2Panel;
@@ -54,6 +55,15 @@ public class LobbyManager : MonoBehaviour
     {
         if (OptionCanvas.activeSelf == false) OptionCanvas.SetActive(true);
         else OptionCanvas.SetActive(false);
+
+        // 클릭 효과음 재생
+        AudioManager.instance.PlaySound(Click, transform.position);
+    }
+
+    public void HelpToggle()
+    {
+        if (HelpCanvas.activeSelf == false) HelpCanvas.SetActive(true);
+        else HelpCanvas.SetActive(false);
 
         // 클릭 효과음 재생
         AudioManager.instance.PlaySound(Click, transform.position);
